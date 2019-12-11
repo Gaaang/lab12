@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab13_1\main.cpp(145,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab13_1\main.cpp(146,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab13_1\main.cpp(155,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab13_1\main.cpp(156,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab13_1\main.cpp(164,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab13_1\main.cpp(165,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab13_1\main.cpp(245,27): warning C4305: +=: усечение из "double" в "float"
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab13_1\main.cpp(247,27): warning C4305: -=: усечение из "double" в "float"
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab13_1\main.cpp(249,27): warning C4305: +=: усечение из "double" в "float"
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab13_1\main.cpp(251,27): warning C4305: -=: усечение из "double" в "float"
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab13_1\main.cpp(253,27): warning C4305: +=: усечение из "double" в "float"
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab13_1\main.cpp(255,27): warning C4305: -=: усечение из "double" в "float"
+  lab13_1.vcxproj -> C:\Users\User\Desktop\OpenGl-master\Graphics\x64\Debug\lab13_1.exe
